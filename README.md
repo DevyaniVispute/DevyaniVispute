@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevyaniVispute
 - 👀 I’m interested in Organic Chemistry, Digital Marketing, Blogging.
-- 🌱 I’m currently learning Github, HTML, Web Developmet
+- 🌱 I’m currently learning Github, HTML, Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
